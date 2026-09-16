@@ -22,3 +22,8 @@ Thumbs.db
 .vscode/
 
 *.log
+
+# 运行时生成的归档数据（db.json 为种子数据，保留跟踪）
+data/archives/
+data/receipts/
+data/quarantine/
